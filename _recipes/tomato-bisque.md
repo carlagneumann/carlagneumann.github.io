@@ -16,8 +16,6 @@ ingredients:
     unit: tbsp
 ---
 
-# ![](/uploads/tomato-bisque.jpg){: width="750" height="1334"}Tomato Bisque
-
 Follow the steps:
 
 1. Pre-heat oven 450 F;
