@@ -16,7 +16,7 @@ ingredients:
     unit: tbsp
 ---
 
-# Tomato Bisque
+# ![](/uploads/tomato-bisque.jpg){: width="750" height="1334"}Tomato Bisque
 
 Follow the steps:
 
