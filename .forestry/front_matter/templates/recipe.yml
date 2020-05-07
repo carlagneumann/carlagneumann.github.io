@@ -1,0 +1,35 @@
+---
+label: Recipe
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: ref
+  label: ref
+- type: boolean
+  name: image
+  label: image
+- type: number
+  name: time
+  label: time
+- type: text
+  name: category
+  label: category
+- type: list
+  name: tags
+  label: tags
+- type: field_group_list
+  name: ingredients
+  label: ingredients
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: number
+    name: amount
+    label: amount
+  - type: text
+    name: unit
+    label: unit
