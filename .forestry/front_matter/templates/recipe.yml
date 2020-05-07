@@ -33,3 +33,5 @@ fields:
   - type: text
     name: unit
     label: unit
+pages:
+- _recipes/ny-pizza.md
