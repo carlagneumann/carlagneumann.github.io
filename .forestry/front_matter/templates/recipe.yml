@@ -27,8 +27,10 @@ fields:
   - type: text
     name: name
     label: name
-  - type: number
-    name: amount
+  - name: amount
+    type: text
+    config:
+      required: false
     label: amount
   - type: text
     name: unit
