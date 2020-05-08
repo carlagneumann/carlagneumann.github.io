@@ -23,7 +23,6 @@ ingredients:
 - name: Água em temp ambiente
   amount: 1 1/2
   unit: Copo
-published: false
 
 ---
 Essa é a melhor e mais fiel NY style pizza que tu vai fazer na vida. O passo a passo parece enorme, mas se tu te organizar pra fazer as massas na noite anterior a noite ou dia da pizza, só vai ter que dispor de um tempinho intercalado do outro, e no final é sucesso garantido.
